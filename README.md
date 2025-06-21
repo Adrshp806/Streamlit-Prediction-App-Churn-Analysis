@@ -103,7 +103,7 @@ The app will start running locally and can be accessed through a web browser.
 ### Deployment 
 
 -Performed app deployment with Render
-(https://streamlit-prediction-app-churn-analysis.onrender.com/Predictor)](https://streamlit-prediction-app-churn-analysis.onrender.com/Predictor)
+(https://streamlit-prediction-app-churn-analysis.onrender.com/)](https://streamlit-prediction-app-churn-analysis.onrender.com/Predictor)
 
 
 ### Contributing <a name="contributing"></a>
